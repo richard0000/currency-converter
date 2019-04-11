@@ -1,0 +1,14 @@
+[
+    {
+        "type": "USD",
+        "amount": 2.0
+    },
+    {
+        "type": "EUR",
+        "amount": 234
+    },
+    {
+        "type": "AUD",
+        "amount": 1.1
+    }
+]

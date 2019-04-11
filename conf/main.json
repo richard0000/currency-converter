@@ -1,0 +1,4 @@
+{
+    "ratesUrl": "https://api.exchangeratesapi.io/latest?base=USD",
+    "baseCurrency": "USD"
+}
